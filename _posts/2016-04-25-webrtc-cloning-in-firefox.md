@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Changing Firefox MediaStreams to accommodate cloning"
-date:   2016-04-28 11:30:00
+date:   2016-04-25 11:30:00
 categories: webrtc
 author: "Andreas Pehrson"
 tags: webrtc Firefox
